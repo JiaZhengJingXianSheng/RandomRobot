@@ -49,3 +49,5 @@
 >`draw_blocks()` 绘制方块 [不可通行]
 >
 >`draw_treasure()` 绘制宝藏 
+
+![7sPMzd.gif](https://s4.ax1x.com/2022/01/19/7sPMzd.gif)
